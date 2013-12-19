@@ -1,0 +1,4 @@
+HomeEverywhere
+==============
+
+general preference settings
